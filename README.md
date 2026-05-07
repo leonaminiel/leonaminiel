@@ -19,7 +19,7 @@ I'm interested in the intersection of systems security, low-level programming, a
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -30,7 +30,7 @@ I'm interested in the intersection of systems security, low-level programming, a
 
 ---
 
-## 🎓 Background
+## Background
 
 - **Degree:** B.Sc (Hons) Computer Science — Cybersecurity, APU
 - **CGPA:** 3.02 / 4.00 (Year 2, Sem 1)
