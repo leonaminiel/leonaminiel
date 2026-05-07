@@ -40,7 +40,7 @@ I'm interested in the intersection of systems security, low-level programming, a
 
 ## 📬 Get in touch
 
-[leonaminiel@icloud.com](mailto:leonaminiel@icloud.com) · [LinkedIn](my.linkedin.com/in/leon-aminiel-b55a50288) · Malaysia 🇲🇾
+[leonaminiel@icloud.com](mailto:leonaminiel@icloud.com) · [LinkedIn](www.linkedin.com/in/leon-aminiel-b55a50288) · Malaysia 🇲🇾
 
 ---
 
